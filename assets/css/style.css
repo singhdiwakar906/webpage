@@ -260,7 +260,7 @@ div.img-cnt img {
 #cards{
     display: flex;
     justify-content: center;
-    margin-left:0px;
+    margin-left:18%;
 }
 .find-btn{
     text-align: center;
@@ -732,7 +732,12 @@ button:hover,#submit-cnt>button:hover{
         display: none;
     }
     #cards{
-        margin-left:18%;
+        margin-left:0%;
+    }
+}
+@media screen and  (max-width:1269px ){
+    #circle-cnt{
+        display: none;
     }
 }
 @media screen and (max-width:1025px){
