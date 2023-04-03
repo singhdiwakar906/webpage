@@ -578,6 +578,7 @@ div#body-cnt button:hover {
     width: 47%;
     margin: 10px auto;
     flex-wrap: wrap;
+    justify-content: space-between;
     min-width: 351px;
 }
 .card-desc{
