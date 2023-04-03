@@ -726,11 +726,13 @@ button:hover,#submit-cnt>button:hover{
 /* end */
 
 /* Responsive Design */
-
-@media screen and (min-width:1290px) {
+@media screen and ( min-width:1367px){
     #circle-cnt{
         display: none;
     }
+}
+@media screen and (min-width:1290px) {
+    
     #cards{
         margin-left:0%;
     }
