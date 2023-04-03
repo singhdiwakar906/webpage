@@ -560,6 +560,12 @@ div#ft-body div {
 /* end */
 
 /* insta-feed section 6*/
+
+div#body-cnt button:hover {
+    color: white;
+    background: black;
+}
+
 #body-cnt{
     display: flex;
     flex-wrap: wrap;
@@ -715,6 +721,7 @@ button{
 }
 button:hover,#submit-cnt>button:hover{
     background-color: #0e0e0e;
+    color:white;
 }
 /* end */
 
