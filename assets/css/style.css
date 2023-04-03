@@ -260,7 +260,7 @@ div.img-cnt img {
 #cards{
     display: flex;
     justify-content: center;
-    
+    margin-left:0px;
 }
 .find-btn{
     text-align: center;
