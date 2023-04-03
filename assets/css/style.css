@@ -557,6 +557,14 @@ div#stores-img {
 div#ft-body div {
     min-width: 100px;
 }
+footer div#ft-body ul li {
+    font-size: 1.4rem;
+}
+
+footer div#ft-body ul li:first-child {
+    margin: 9px 0px 51px 0px;
+    font-size: 1.7rem;
+}
 /* end */
 
 /* insta-feed section 6*/
@@ -623,6 +631,7 @@ img[alt="blue-heart"]{
 #copyright-cnt{
     text-align: center;
     margin-top: 7% ;
+    font-family: sans-serif;
 }
 /* end */
 
@@ -891,7 +900,7 @@ button:hover,#submit-cnt>button:hover{
     }
     .pentagon-text{
         font-size: 1.3rem;
-        bottom: 34%;
+        bottom: 45%;
     }
     div.pentagon-text.long-para{
         font-size: 1.0rem;
